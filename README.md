@@ -1,1 +1,1 @@
-Meus exercícios de lógica de programação feitos em JavaScript
+Meus exercícios de lógica de programação feitos em JavaScript 👩‍💻
